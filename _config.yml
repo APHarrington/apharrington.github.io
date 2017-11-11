@@ -4,7 +4,7 @@ permalink:      /:year-:month-:day/:title
 # Setup
 title:          Tale
 paginate:       5
-baseurl:        "/a"
+baseurl:        ""
 url:            "https://apharrington.github.io"
 
 # Assets
