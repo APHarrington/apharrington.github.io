@@ -4,7 +4,7 @@ permalink:      /:year-:month-:day/:title
 # Setup
 title:          Tale
 paginate:       5
-baseurl:        “/aph”
+baseurl:        “ ”
 url:            "https://apharrington.github.io"
 
 # Assets
@@ -18,13 +18,13 @@ markdown:       kramdown
 # About
 author:
   name:         AP Harrington
-  url:          http://chester.how
+  url:          http://apharrington.github.io
   email:        apaigeharrington@gmail.com
 
 # Custom vars
 version:        3.4.1
 github:
-  repo:         https://github.com/chesterhow/tale
+  repo:         https://github.com/apharrington.github.io
 
 # Gems
 gems:
