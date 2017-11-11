@@ -6,4 +6,5 @@ permalink: /about/
 ---
 
 ## AP. Harrington
-I’m **AP Harrington** and I’m a online!
+SMU | COX MBA Gradutate Student by Day; Writer, Wife & Aspiring Chef by Night. 
+The rest you can find out in my blog. 
