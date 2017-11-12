@@ -1,5 +1,6 @@
 # Permalinks
 permalink:      /:year-:month-:day/:title
+permalink:      /:categories/:title/
 
 # Setup
 title:          Page by Paige
